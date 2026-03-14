@@ -1,75 +1,114 @@
 # ResumeIQ – AI Powered Resume Intelligence Platform
 
-ResumeIQ is an AI-powered web application that analyzes resumes and provides intelligent insights to help candidates improve their profiles and align with industry expectations.
+🚀 Built during **Code the Future: AI Edition Hackathon**
 
-The system evaluates resumes across multiple dimensions such as technical skills, project impact, ATS compatibility, and overall market readiness.
+ResumeIQ is an AI-powered platform that analyzes resumes and provides intelligent insights to help candidates improve their profiles and align with industry expectations.
+
+The system evaluates resumes across multiple dimensions such as technical skills, project impact, ATS compatibility, and overall job readiness.
+
+---
 
 ## Problem
 
-Recruiters receive hundreds of resumes and rely on automated systems (ATS) to filter candidates. Many students and professionals do not know how their resumes are evaluated by these systems.
+Recruiters receive hundreds of resumes for every job role. Most companies use Applicant Tracking Systems (ATS) to filter resumes before a human recruiter even sees them.
 
-ResumeIQ simulates an AI-powered resume evaluation process to help users understand their strengths, weaknesses, and areas for improvement.
+However, many students and professionals do not know how their resumes are evaluated by these systems.
+
+As a result:
+- Good candidates get filtered out
+- Resumes are poorly optimized
+- Candidates lack guidance for improvement
+
+---
 
 ## Solution
 
-ResumeIQ allows users to upload their resume and receive:
+ResumeIQ simulates an AI-powered resume evaluation system.
 
-- AI-generated executive summary
-- Resume quality score
-- Project impact evaluation
-- Skills and competency insights
-- ATS compatibility indicators
-- Market intelligence on technical skills
-- Job role matching analysis
-- Personalized improvement suggestions
+Users can upload their resume and receive:
+
+• AI-generated executive summary  
+• Resume quality score  
+• Skill analysis  
+• Project impact evaluation  
+• ATS compatibility insights  
+• Job role matching suggestions  
+• Personalized improvement recommendations
+
+This helps candidates understand how their resumes are interpreted and how they can improve them.
+
+---
 
 ## Key Features
 
-- Resume upload and analysis
-- AI-powered insights dashboard
-- Technical skill evaluation
-- Project impact scoring
-- Growth roadmap suggestions
-- AI interview preparation hints
-- Job role matching system
+- Resume Upload & Analysis
+- AI Generated Executive Summary
+- Resume Quality Score
+- Skills & Competency Insights
+- Project Impact Evaluation
+- Job Role Matching
+- Improvement Recommendations
+- Simple Dashboard Interface
+
+---
 
 ## Tech Stack
 
-Frontend:
-- React
-- Modern UI Dashboard
+Frontend  
+- React  
+- Modern UI Dashboard  
 
-Backend:
-- Python
-- FastAPI
+Backend  
+- Python  
+- FastAPI  
 
-AI Components:
-- NLP-based resume parsing
-- AI-driven scoring logic
-- Skill extraction and evaluation
+AI / Processing  
+- Natural Language Processing (NLP)
+- Resume parsing logic
+- AI-based evaluation system
 
-## Workflow
+---
 
-1. User uploads resume
-2. Resume text is parsed and processed
-3. AI evaluates multiple resume parameters
+## How It Works
+
+1. User uploads a resume
+2. Resume text is parsed and analyzed
+3. AI evaluates multiple parameters such as skills, experience, and projects
 4. System generates scores and insights
-5. Dashboard displays results and improvement suggestions
+5. Results are displayed on an interactive dashboard
+
+---
+
+## Demo Video
+
+Project Demo:
+
+https://www.loom.com/share/8ec47d0be33a454e8ffdc9f1230528ea
+
+---
 
 ## Future Improvements
 
-- Real ATS simulation engine
-- Multi-job role optimization
-- Resume rewriting using generative AI
+- Advanced ATS simulation
+- Resume rewriting using Generative AI
 - Industry benchmark comparison
-- Integration with job platforms
+- Job platform integration
+- Interview preparation insights
 
-## Project Context
+---
 
-This project was developed as part of the **Code the Future: AI Edition Hackathon**, focusing on building practical AI-powered developer tools within a limited time.
+## Hackathon Context
+
+This project was developed during the **Code the Future: AI Edition Hackathon**, where participants had **4 hours** to build a working AI-powered solution using rapid prototyping tools.
+
+The focus was on building a practical AI application that demonstrates problem solving, system design, and AI integration.
+
+---
 
 ## Author
 
 Divyansh Gupta  
 B.Tech CSE (AI & ML)  
-ITM University Gwalior
+ITM University, Gwalior
+
+GitHub: https://github.com/dgboy-ai/ResumeIQ.git
